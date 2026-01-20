@@ -1,0 +1,10 @@
+{
+  "name": "team-match-ai",
+  "version": "1.0.0",
+  "description": "TeamMatch AI - Organiza tus partidos de fútbol",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
